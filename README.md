@@ -15,8 +15,8 @@ git clone https://github.com/SevenworksDev/SM64-JS.git
 cd SM64-JS-main
 mv * (Folder of your website here)
 ```
-## Play using Windows Executable (soon)
-Check Releases  
+## Play using Windows Executable (Electron Package - Soon)
+Check Releases for Update  
 # Setup Automatically
 ```bash
 bash ./script_from_build_folder_here.sh
